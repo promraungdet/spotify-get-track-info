@@ -1,5 +1,5 @@
 # spotify-get-track-info
-Get spotify album color from trackId
+Spotify get track info
 
 ## Install
 
