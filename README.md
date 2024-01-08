@@ -18,7 +18,7 @@ import { getTrackInfo } from "spotify-get-track-info"
 const trackInfo = await getTrackInfo("1WJ5tWjTdfywqMANcu7jXi")
 console.log(trackInfo)
 
-//With CORS Proxy
+// With CORS Proxy
 // CommonJS
 const { getTrackInfo } = require('spotify-get-track-info')
 // ES6
